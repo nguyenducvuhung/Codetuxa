@@ -438,9 +438,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - K+#
 
-#EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="http://vthanh.live/ic/95.png", K+1 HD
-http://s4live.tv1asia.com:21585/kplus2/index.m3u8
-
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - KÊNH QUỐC TẾ#
 
 #EXTINF:-1 tvg-id="Channel V HD-ClipTV" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/wdwbLJM/Channel-V-BEARTV.png", Channel V HD
