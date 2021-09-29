@@ -525,7 +525,7 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="KÊNH NƯỚC NGOÀI" tvg-chno="118",Cinemax HD
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxsportshd tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="91",Fox Sports HD
+#EXTINF:-1 tvg-id="foxsportshd tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg" group-title="KÊNH NƯỚC NGOÀI"  tvg-chno="91",Fox Sports HD
 https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="foxsports2hd" tvg-name="Fox_Sports_2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="KÊNH NƯỚC NGOÀI"  tvg-chno="92",Fox Sports 2 HD
 https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
