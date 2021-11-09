@@ -1,13 +1,16 @@
-#Thank FPTPLAY for SHARE
 #EXTM3U url-tvg="https://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1 url="http://bit.ly/iptvphaptx5"
-#Thank EPG Bảo Chính For Share
-#EXTM3U CHIA SẺ VÌ CỘNG ĐỒNG - PHÁP GROUP ANDROID BOX TX5 url="http://bit.ly/iptvphaptx5"
+
+
+
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- Giới thiệu#
+
+#EXTINF:-1 tvg-id="Mọi chi tiết liên hệ 0979399871" tvg-name="Mọi chi tiết liên hệ 0979399871" tvg-logo="https://ibb.co/XJtXj1N"  group-title="Bản quyền By Vuhungaudio 0979399871" tvg-chno="13",Mọi chi tiết liên hệ 0979399871
+
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV#
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg"  group-title="VTV"  catchup="append" catchup-days="1" catchup-source="?start_time=${start}&source=v1hd" ,VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://static.megavie.live/media/vtv2hd.jpg"  group-title="VTV" tvg-chno="2" catchup="append" catchup-days="1" catchup-source="?start_time=${start}&source=v2hd",VTV2 HD
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="VTV" tvg-chno="3",VTV3 HD
@@ -31,8 +34,6 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="vtc2" tvg-logo="https://static.megavie.live/media/vtc2.jpg", VTC2 HD
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://static.megavie.live/media/vtc3hd.jpg"  group-title="VTC" tvg-chno="11",VTC3 HD
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8s
 #EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://static.megavie.live/media/vtc4hd.jpg"  group-title="VTC" tvg-chno="12",VTC4 HD
 https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://static.megavie.live/media/vtc5hd.jpg"  group-title="VTC" tvg-chno="13",VTC5 HD
