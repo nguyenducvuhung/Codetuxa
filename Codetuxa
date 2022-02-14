@@ -217,14 +217,17 @@ https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- K+#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
-http://cdnspt.vthanh.xyz/kcine/mpegts
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/27082021k1_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
-http://cdnspt.vthanh.xyz/klife/mpegts
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/27082021k1ns_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
-http://cdnspt.vthanh.xyz/ksport1/mpegts
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
-#https://cdnspt.vthanh.xyz/AOLive/mpegts
-http://cdnspt.vthanh.xyz/ksport2/mpegts
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- Kênh Địa Phương#
@@ -435,184 +438,7 @@ http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- KÊNH BEIN + SPORT #
 
-
-#EXTINF:0 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png",  Bein Sports Xtra N
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports Xtra1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/115180.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports Xtra2
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/115182.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports 1 Premium
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90284.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports 2 Premium
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90283.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports 3 Premium
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90282.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Sports 1 Premium FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/74855.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 Premium FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/74856.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3 Premium FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/74857.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90292.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90291.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90290.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 4
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90289.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 5
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90288.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 6
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90287.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 7
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90286.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
-http://bestsave.ltd:2052/live/55667788/88776655/38577.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38578.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38579.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 4 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38580.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 5 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38581.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 6 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38582.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 7 FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/38583.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 English FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90309.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 English FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90308.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3 English FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90307.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 English
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90273.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 English
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90273.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 3 English
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90271.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 French
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90270.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 French
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90269.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 1 French FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
-http://bestsave.ltd:2052/live/55667788/88776655/74858.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports 2 French FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
-http://bestsave.ltd:2052/live/55667788/88776655/74858.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports News
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/16001.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports NBA
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/90311.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein sports NBA FHD 50fps
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/31617.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Movie 1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2058.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Movie 2
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2061.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Movie 3
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/67727.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Movie 4
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/67728.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Series 1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2062.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Series 2
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2063.ts
-#EXTINF:-1 tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/bein.png", Bein Drama 1
-#EXTGRP:Bein
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://bestsave.ltd:2052/live/55667788/88776655/2064.ts
 
 
 
