@@ -146,51 +146,38 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTVCAP#
 
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
-http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=vie-giai-tri-hd
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/13.png", VTVcab 2 - On Phim Việt
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab2|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/14.png", VTVcab 3 - On Sports
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab3|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/16.png", VTVcab 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab4|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/17.png", VTVcab 5 - E Channel
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab5|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/18.png", VTVcab 6 - On Sports +
-http://vthanh.me/getlink2021/tivi.php?ott=vtvgo&id=196
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab7|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/20.png", VTVcab 8 - BiBi
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/21.png", VTVcab 9 - Info TV
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab9|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/22.png", VTVcab 10 - On Cine
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab10|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/23.png", VTVcab 12 - Style TV
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab12|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/24.png", VTVcab 15
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab15|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/26.png", VTVcab 16 - On Football
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab16|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/27.png", VTVcab 17 - Yeah1TV
-http://vthanh.me/getlink2021/tivi.php?ott=vtvgo&id=195
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/29.png", VTVcab 19 - Vie Dramas
-http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=vie-dramas-hd
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/30.png", VTVcab 20 - VFamily
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab20|Referer=http://sctvonline.vn
-
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/12.png", VTVcab 1 - Vie Giải trí HD
+https://api.vthanhtivii.xyz/v1/getlink/vieon/vie-giai-tri-hd?t=a.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/13.png", VTVcab 2 - On Phim Việt
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab2?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/14.png", VTVcab 3 - On Sports
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab3?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/16.png", VTVcab 4
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab4?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/17.png", VTVcab 5 - E Channel
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab5?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/18.png", VTVcab 6 - On Sports +
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab6?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab7?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/20.png", VTVcab 8 - BiBi
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab8?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/21.png", VTVcab 9 - Info TV
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab9?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/22.png", VTVcab 10 - On Cine
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab10?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/23.png", VTVcab 12 - Style TV
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab12?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/24.png", VTVcab 15
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab15?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/26.png", VTVcab 16 - On Football
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab16?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/27.png", VTVcab 17 - Yeah1TV
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab17?t=a.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/29.png", VTVcab 19 - Vie Dramas
+https://api.vthanhtivii.xyz/v1/getlink/vieon/vie-dramas-hd?t=a.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="http://vn1.vthanhtivii.xyz:8011/ic/30.png", VTVcab 20 - VFamily
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/vtvcab20?t=a.m3u8|Referer=http://sctvonline.vn
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- HTVC#
 
