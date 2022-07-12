@@ -236,17 +236,15 @@ https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- K+#
 
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Mở vào thứ 7 và chủ nhật hàng tuần hoặc khi có sự kiện
-https://vthanh.net
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://vthanhvnpt.duckdns.org/KCINE_vthanh/mpegts
+http://live.television4you.xyz:8080/kcine
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://vthanhvnpt.duckdns.org/KLIFE_vthanh/mpegts
+http://live.television4you.xyz:8080/klife
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
+http://live.television4you.xyz:8080/ksport1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
+http://live.television4you.xyz:8080/ksport2
+
 
 #-*--Thiết yếu-*--#
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
